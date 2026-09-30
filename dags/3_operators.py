@@ -2,7 +2,7 @@ from airflow.sdk import dag, task
 from airflow.providers.standard.operators.bash import BashOperator
 
 @dag(
-        dag_id = 'operators'
+        dag_id = '03_operators'
 )
 def operators():
 

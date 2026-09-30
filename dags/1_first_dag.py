@@ -1,7 +1,7 @@
 from airflow.sdk import dag, task
 
 @dag(
-        dag_id = 'first_dag'
+        dag_id = '01_first_dag'
 )
 def first_dag():
 
