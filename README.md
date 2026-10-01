@@ -23,3 +23,6 @@ Airflow is an open source framework which can be used as an ORCHESTRATOR.
 * **DAG:** Direct Acyclic Graph. Basically it doesn't loop.
 * **Task Instance:** It's just a unit of work or step. The rectangles in the DAG graph.
 * **Operator:** An operator is conceptually a template for a predefined Task, that you can just define declaratively inside your DAG
+
+# ASSETS IN AIRFLOW
+
